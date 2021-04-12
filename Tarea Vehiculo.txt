@@ -1,0 +1,4 @@
+1.estructura de componentes
+2.logica de ingreso y salida del vehiculo
+3.logica del manejo
+4.relacion a la physica
